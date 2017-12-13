@@ -1,0 +1,53 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @Noctuliuss
+ Sign out
+ Watch 2
+  Star 2  Fork 0 munifgebara/reactnative
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
+Branch: master Find file Copy pathreactnative/lista/lista.json
+077c8c3  8 days ago
+ Munif Gebara Junior ˜imagens˜
+0 contributors
+RawBlameHistory     
+23 lines (22 sloc)  612 Bytes
+[
+    {
+        "produto": "Picanha",
+        "id": 1,
+        "imagem":"https://github.com/munifgebara/reactnative/raw/master/imagens/picanha.jpg"
+    },
+    {
+        "produto": "Carvão",
+        "id": 2,
+        "imagem":"https://github.com/munifgebara/reactnative/raw/master/imagens/carvao.jpg"
+    },
+    {
+        "produto": "Cerveja",
+        "id": 3,
+        "imagem":"https://github.com/munifgebara/reactnative/raw/master/imagens/cerveja.jpg"
+    },
+    {
+        "produto": "Farofa",
+        "id": 4,
+        "imagem":"https://github.com/munifgebara/reactnative/raw/master/imagens/farofa.jpg"
+    }
+
+]
+© 2017 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
